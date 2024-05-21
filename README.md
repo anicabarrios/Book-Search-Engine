@@ -51,8 +51,7 @@ After launching the application:
 ## Deployment
 
 - The application is deployed using Render with a MongoDB database hosted on MongoDB Atlas.
-- View the live link of the application.
-- [Live link]()
+- View the live link of the application:  [Live link](https://book-search-engine-n6bx.onrender.com/)
 
 ## Screenshots
 
